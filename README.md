@@ -1,7 +1,8 @@
 # Analytics_EntryLevel
 This repository contains the first course work on the initial level of analytics
 
-## **Данная курсовая работа включает в себя следубщие разделы:**
+
+## **Данная курсовая работа включает в себя следующие разделы:**
 
 ### 1. Описание и начальная работа с данными
 
